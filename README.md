@@ -31,18 +31,10 @@ An end-to-end streaming platform that converts live Transport for London arrival
 
 ## More Projects
 
-### ⚡ Live UK Energy & Carbon Intelligence
-
-A data platform for collecting and analysing regional UK carbon-intensity and energy-generation data.
-
-[View repository](https://github.com/Banoth281/live-uk-energy-intelligence)
-
-### 🛠️ SAP Incident Management System
-
-An incident-management application built with SAP CAP, Node.js, OData v4, SQLite and SAP Fiori Elements.
-
-[View repository](https://github.com/Banoth281/sap-incident-management)
-
+| ⚡ Live UK Energy & Carbon Intelligence | 🛠️ SAP Incident Management System |
+| --- | --- |
+| Regional UK carbon-intensity and generation analytics built with Python, PostgreSQL and Streamlit. | Incident-management application built with SAP CAP, Node.js, OData v4, SQLite and SAP Fiori Elements. |
+| [View repository →](https://github.com/Banoth281/live-uk-energy-intelligence) | [View repository →](https://github.com/Banoth281/sap-incident-management) |
 ## Technical Skills
 
 ### Data Engineering
