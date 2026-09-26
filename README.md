@@ -1,82 +1,38 @@
 # Hi, I’m Santhosh Banoth 👋
 
-## Data Engineer | Python • SQL • Kafka • PostgreSQL • dbt • Azure
+### Data Engineer & Data Analyst | Python • SQL • PostgreSQL • Kafka • dbt • Dashboards
 
-I’m a data and IT professional with more than three years of experience across data analysis, enterprise application support and secure government operations.
+I turn raw operational data into dependable pipelines, clear metrics and useful dashboards. My background spans data analysis, enterprise application support and UK public-sector operations, and I hold an MSc in Advanced Computer Science from the University of Liverpool.
 
-I hold an MSc in Advanced Computer Science from the University of Liverpool and build end-to-end data platforms that transform operational data into reliable, analytics-ready insights.
+**Open to Data Engineer, Junior Data Engineer and Data Analyst roles across the UK.**
 
-- 🔭 Building real-time streaming and analytics platforms
-- 🌱 Developing deeper expertise in Azure, PySpark and cloud data engineering
-- 🧪 Interested in data quality, observability and reliable public services
-- 💼 Open to Data Engineer, Junior Data Engineer and Data Analyst opportunities across the UK
-- 📍 Based in the United Kingdom
+- **Data engineering:** Python ingestion, Kafka-compatible streaming, PostgreSQL, dbt models, data-quality checks, APIs, Docker and GitHub Actions
+- **Data analysis:** SQL, pandas, Excel, Power BI, Tableau, KPI reporting, reconciliation and stakeholder-focused dashboards
+- **Currently developing:** Azure and PySpark
 
-## Featured Project
+## Featured work
 
-### 🚇 UK Live Transport Intelligence
+| Project | What it demonstrates | Explore |
+| --- | --- | --- |
+| 🚇 **UK Live Transport Intelligence** | TfL arrivals → Python → Redpanda/Kafka → PostgreSQL → dbt → FastAPI → Streamlit. Includes 21 dbt tests and station/line analytics. | [Demo](https://uk-live-transport-intelligence.streamlit.app) · [Code](https://github.com/Banoth281/uk-live-transport-intelligence) |
+| 🛍️ **UK Retail Sales & Customer Insights** | Excel, SQL and Python analysis of 1,800 synthetic orders; revenue, profit, returns and regional/channel KPIs with interactive filters. | [Demo](https://banoth281.github.io/uk-retail-sales-analytics/) · [Code](https://github.com/Banoth281/uk-retail-sales-analytics) |
+| ⚡ **Live UK Energy & Carbon Intelligence** | Regional carbon intensity and generation analytics with Python, PostgreSQL, FastAPI and Streamlit. | [Demo](https://live-uk-energy-intelligence-dvyys7acaxutsx6v2lo9ao.streamlit.app/) · [Code](https://github.com/Banoth281/live-uk-energy-intelligence) |
+| 🛡️ **Real-Time Fraud Detection Lakehouse** | Synthetic transaction streaming, validation, Bronze/Silver/Gold layers, dbt and fraud metrics. | [Demo](https://real-time-fraud-detection-lakehouse-jfsazacdwjdgkz6gplthwv.streamlit.app/) · [Code](https://github.com/Banoth281/real-time-fraud-detection-lakehouse) |
+| 🛒 **Real-Time Commerce Intelligence** | Kafka-compatible event processing, PostgreSQL, FastAPI and sales/latency analytics. | [Demo](https://real-time-commerce-data-pipeline-db39b7gmu7trypz8vlj6sg.streamlit.app/) · [Code](https://github.com/Banoth281/real-time-commerce-data-pipeline) |
 
-An end-to-end streaming platform that converts live Transport for London arrival predictions into operational and analytical insights.
+**Demo note:** The hosted Streamlit dashboards can show representative portfolio snapshots when their local data/API services are unavailable. The repositories document the full pipelines.
 
-**Technology:** Python, Redpanda/Kafka, PostgreSQL, dbt, FastAPI, Streamlit, Docker and GitHub Actions
+### More projects
 
-- Producer–consumer streaming architecture
-- Layered dbt models
-- 21 automated data-quality tests
-- REST API and interactive dashboard
-- Public recruiter demo
+- [SAP Incident Management System](https://github.com/Banoth281/sap-incident-management) — SAP CAP, Node.js, OData v4, SQLite and SAP Fiori Elements.
+- [Smart Personal Finance & Bill Tracker](https://github.com/Banoth281/smart-personal-finance-tracker) — CSV validation, transaction categorisation, PostgreSQL and spending analytics.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://uk-live-transport-intelligence.streamlit.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-View_on_GitHub-181717?logo=github&logoColor=white)](https://github.com/Banoth281/uk-live-transport-intelligence)
+## Skills
 
-## More Projects
+| Data engineering | Data analysis and reporting | Platforms and delivery |
+| --- | --- | --- |
+| Python, SQL, PostgreSQL, Redpanda/Kafka, dbt, pandas, FastAPI | Excel, Power BI, Tableau, KPI design, data validation, reconciliation | Docker, GitHub Actions, Azure fundamentals, ServiceNow, ITIL |
 
-| ⚡ Live UK Energy & Carbon Intelligence | 🛠️ SAP Incident Management System |
-| --- | --- |
-| Regional UK carbon-intensity and generation analytics built with Python, PostgreSQL and Streamlit. | Incident-management application built with SAP CAP, Node.js, OData v4, SQLite and SAP Fiori Elements. |
-| [View repository →](https://github.com/Banoth281/live-uk-energy-intelligence) | [View repository →](https://github.com/Banoth281/sap-incident-management) |
-## Technical Skills
+## Connect
 
-### Data Engineering
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-
-### Cloud, APIs and Infrastructure
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-
-### Service Management and Analytics
-
-- ServiceNow incident, request and change management
-- ITIL service-management practices
-- Power BI and Tableau
-- Data validation, reconciliation and reporting
-- Application support and root-cause analysis
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santhosh_Banoth-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banoth281/)
-[![GitHub](https://img.shields.io/badge/GitHub-Banoth281-181717?logo=github&logoColor=white)](https://github.com/Banoth281)
-
-<!--
-**Banoth281/Banoth281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/banoth281/) · [GitHub](https://github.com/Banoth281)
