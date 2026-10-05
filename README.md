@@ -1,38 +1,69 @@
 # Hi, I’m Santhosh Banoth 👋
 
-### Data Engineer & Data Analyst | Python • SQL • PostgreSQL • Kafka • dbt • Dashboards
+### Aspiring SOC Analyst | Security Operations | Log Investigation
 
-I turn raw operational data into dependable pipelines, clear metrics and useful dashboards. My background spans data analysis, enterprise application support and UK public-sector operations, and I hold an MSc in Advanced Computer Science from the University of Liverpool.
+I’m an IT professional transitioning into cybersecurity, with experience in enterprise application support, incident management and troubleshooting.
 
-**Open to Data Engineer, Junior Data Engineer and Data Analyst roles across the UK.**
+I hold an MSc in Advanced Computer Science from the University of Liverpool. At TCS, I supported banking applications, investigated incidents, managed ServiceNow tickets and worked within agreed SLAs.
 
-- **Data engineering:** Python ingestion, Kafka-compatible streaming, PostgreSQL, dbt models, data-quality checks, APIs, Docker and GitHub Actions
-- **Data analysis:** SQL, pandas, Excel, Power BI, Tableau, KPI reporting, reconciliation and stakeholder-focused dashboards
-- **Currently developing:** Azure and PySpark
+I am now building practical security investigation skills through hands-on labs, focusing on authentication logs, suspicious login activity and clear investigation documentation.
 
-## Featured work
+## 🔐 Featured Security Project
 
-| Project | What it demonstrates | Explore |
-| --- | --- | --- |
-| 🚇 **UK Live Transport Intelligence** | TfL arrivals → Python → Redpanda/Kafka → PostgreSQL → dbt → FastAPI → Streamlit. Includes 21 dbt tests and station/line analytics. | [Demo](https://uk-live-transport-intelligence.streamlit.app) · [Code](https://github.com/Banoth281/uk-live-transport-intelligence) |
-| 🛍️ **UK Retail Sales & Customer Insights** | Excel, SQL and Python analysis of 1,800 synthetic orders; revenue, profit, returns and regional/channel KPIs with interactive filters. | [Demo](https://banoth281.github.io/uk-retail-sales-analytics/) · [Code](https://github.com/Banoth281/uk-retail-sales-analytics) |
-| ⚡ **Live UK Energy & Carbon Intelligence** | Regional carbon intensity and generation analytics with Python, PostgreSQL, FastAPI and Streamlit. | [Demo](https://live-uk-energy-intelligence-dvyys7acaxutsx6v2lo9ao.streamlit.app/) · [Code](https://github.com/Banoth281/live-uk-energy-intelligence) |
-| 🛡️ **Real-Time Fraud Detection Lakehouse** | Synthetic transaction streaming, validation, Bronze/Silver/Gold layers, dbt and fraud metrics. | [Demo](https://real-time-fraud-detection-lakehouse-jfsazacdwjdgkz6gplthwv.streamlit.app/) · [Code](https://github.com/Banoth281/real-time-fraud-detection-lakehouse) |
-| 🛒 **Real-Time Commerce Intelligence** | Kafka-compatible event processing, PostgreSQL, FastAPI and sales/latency analytics. | [Demo](https://real-time-commerce-data-pipeline-db39b7gmu7trypz8vlj6sg.streamlit.app/) · [Code](https://github.com/Banoth281/real-time-commerce-data-pipeline) |
+### SOC Login Investigation Lab
 
-**Demo note:** The hosted Streamlit dashboards can show representative portfolio snapshots when their local data/API services are unavailable. The repositories document the full pipelines.
+A practical learning project for analysing login events and documenting security investigations.
 
-### More projects
+**Areas explored:**
+- Reviewing successful and failed authentication events
+- Investigating suspicious login patterns
+- Using MFA events to add context to investigations
+- Distinguishing ordinary login errors from activity requiring further investigation
+- Recording evidence, findings and recommended next steps
 
-- [SAP Incident Management System](https://github.com/Banoth281/sap-incident-management) — SAP CAP, Node.js, OData v4, SQLite and SAP Fiori Elements.
-- [Smart Personal Finance & Bill Tracker](https://github.com/Banoth281/smart-personal-finance-tracker) — CSV validation, transaction categorisation, PostgreSQL and spending analytics.
+[Explore the lab and investigation notes](https://github.com/Banoth281/soc-login-lab)
 
-## Skills
+## 🛠️ Relevant Skills
 
-| Data engineering | Data analysis and reporting | Platforms and delivery |
-| --- | --- | --- |
-| Python, SQL, PostgreSQL, Redpanda/Kafka, dbt, pandas, FastAPI | Excel, Power BI, Tableau, KPI design, data validation, reconciliation | Docker, GitHub Actions, Azure fundamentals, ServiceNow, ITIL |
+### Security investigation practice
+- Authentication and MFA log review
+- Suspicious login investigation
+- Evidence-based analysis
+- Investigation notes and reporting
 
-## Connect
+### Professional IT support experience
+- L1/L2 enterprise application support
+- ServiceNow incident, request and change management
+- Troubleshooting and escalation
+- SLA monitoring
+- Technical documentation
 
-[LinkedIn](https://www.linkedin.com/in/banoth281/) · [GitHub](https://github.com/Banoth281)
+### Technical foundations
+- Python and SQL for analysing records
+- Windows and Linux fundamentals
+- TCP/IP, DNS and networking concepts
+- Azure and identity access management fundamentals
+
+## 📚 Currently Developing
+
+- Security monitoring and alert triage
+- SIEM concepts and investigation workflows
+- Windows security event analysis
+- Incident response fundamentals
+- MITRE ATT&CK concepts
+
+## 🎯 Career Focus
+
+Seeking entry-level opportunities in:
+
+- SOC Analyst — Tier 1
+- Junior SOC Analyst
+- Security Operations Analyst
+- Junior Cybersecurity Analyst
+
+Based in Scotland, United Kingdom.
+
+## 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/banoth281/) ·
+[Email](mailto:banothsanthu281@gmail.com)
