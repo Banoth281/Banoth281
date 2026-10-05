@@ -8,7 +8,7 @@ I hold an MSc in Advanced Computer Science from the University of Liverpool. At 
 
 I am now building practical security investigation skills through hands-on labs, focusing on authentication logs, suspicious login activity and clear investigation documentation.
 
-## 🔐 Featured Security Project
+## 🔐 Featured Security Projects
 
 ### SOC Login Investigation Lab
 
@@ -17,16 +17,31 @@ A practical learning project for analysing login events and documenting security
 **Areas explored:**
 - Reviewing successful and failed authentication events
 - Investigating suspicious login patterns
-- Using MFA events to add context to investigations
+- Exploring fictional MFA follow-up scenarios to add investigation context
 - Distinguishing ordinary login errors from activity requiring further investigation
 - Recording evidence, findings and recommended next steps
 
 [Explore the lab and investigation notes](https://github.com/Banoth281/soc-login-lab)
 
+### SOC Password Spray Detection Lab
+
+A Python-based lab that detects failures against at least five distinct accounts from the same source IP within five minutes, using synthetic authentication records.
+
+**What it demonstrates:**
+- Correlating authentication events across multiple accounts
+- Rolling time-window detection and duplicate alert suppression
+- Input validation and structured JSON alert reporting
+- Eight passing tests covering detection boundaries and edge cases
+- Investigation notes separating observed evidence from proposed responses
+
+The detected pattern requires investigation; it does not confirm password spraying or account compromise.
+
+[Explore the detector, tests and investigation guide](https://github.com/Banoth281/soc-password-spray-lab)
+
 ## 🛠️ Relevant Skills
 
 ### Security investigation practice
-- Authentication and MFA log review
+- Authentication log review and fictional MFA investigation scenarios
 - Suspicious login investigation
 - Evidence-based analysis
 - Investigation notes and reporting
