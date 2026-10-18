@@ -1,13 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc"><style>
 text { fill: #24292f; }
-text[fill="#f6c768"] { fill: #8a5a00; }
-text[fill="#cfb1ff"] { fill: #8250df; }
-text[fill="#b1a0c3"], text[fill="#a395b8"] { fill: #57606a; }
+text.section-heading { fill: #6f42c1; font-family: Georgia, "DejaVu Serif", serif; font-weight: 700; }
 @media (prefers-color-scheme: dark) {
  text { fill: #e6edf3; }
- text[fill="#f6c768"] { fill: #f6c768; }
- text[fill="#cfb1ff"] { fill: #cfb1ff; }
- text[fill="#b1a0c3"], text[fill="#a395b8"] { fill: #b6bac4; }
+ text.section-heading { fill: #d2b6ff; }
 }
 </style>
   <title id="title">About me — Security Operations Analyst</title>
@@ -20,9 +16,9 @@ text[fill="#b1a0c3"], text[fill="#a395b8"] { fill: #57606a; }
   
   
   <g font-family="Trebuchet MS,DejaVu Sans,sans-serif">
-    <text x="40" y="44" fill="#f6c768" font-size="13" font-weight="600" letter-spacing="1.5">01 / PROFESSIONAL SUMMARY</text>
-    <text font-family="Georgia,DejaVu Serif,serif" x="40" y="91" fill="#fff8ed" font-size="34" font-weight="700">About me</text>
-    <g fill="#dfd5e8" font-size="24">
+    <text x="40" y="44" fill="#6e7781" font-size="13" font-weight="600" letter-spacing="1.5">01 / PROFESSIONAL SUMMARY</text>
+    <text class="section-heading" font-family="Georgia,DejaVu Serif,serif" x="40" y="91" fill="#6e7781" font-size="34" font-weight="700">About me</text>
+    <g fill="#6e7781" font-size="24">
       <text x="40" y="142">SOC Analyst with 3+ years of experience across MSSP and enterprise environments.</text>
       <text x="40" y="184">Skilled in Microsoft Sentinel, Defender XDR, Splunk, and Entra ID investigations.</text>
       <text x="40" y="226">My work spans alert triage, threat hunting, incident response, and KQL detection rules.</text>
