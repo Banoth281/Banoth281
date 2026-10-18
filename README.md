@@ -1,116 +1,63 @@
-<p align="center">
-  <img src="./assets/security-operations-3d.svg" width="100%" alt="Santhosh Banoth — SOC Analyst, Threat Detection and Incident Response" />
-</p>
+<!-- Custom SVG portfolio for Santhosh Banoth. All artwork is stored in this repository. -->
+<p align="center"><img src="./assets/profile-v2-header.svg" width="100%" alt="Santhosh Banoth — SOC Analyst based in London, United Kingdom. Threat detection and incident response." /></p>
 
 <p align="center">
-  <a href="#about"><img src="./assets/nav-about.svg" width="143" alt="About" /></a>
-  <a href="#projects"><img src="./assets/nav-projects.svg" width="143" alt="Projects" /></a>
-  <a href="#skills"><img src="./assets/nav-skills.svg" width="143" alt="Skills" /></a>
-  <a href="#experience"><img src="./assets/nav-experience.svg" width="143" alt="Experience" /></a>
-  <a href="#credentials"><img src="./assets/nav-credentials.svg" width="143" alt="Credentials" /></a>
-  <a href="#contact"><img src="./assets/nav-contact.svg" width="143" alt="Contact" /></a>
+<a href="#about"><img src="./assets/nav-about.svg" width="143" alt="About" /></a>
+<a href="#projects"><img src="./assets/nav-projects.svg" width="143" alt="Projects" /></a>
+<a href="#skills"><img src="./assets/nav-skills.svg" width="143" alt="Skills" /></a>
+<a href="#experience"><img src="./assets/nav-experience.svg" width="143" alt="Experience" /></a>
+<a href="#credentials"><img src="./assets/nav-credentials.svg" width="143" alt="Credentials" /></a>
+<a href="#contact"><img src="./assets/nav-contact.svg" width="143" alt="Contact" /></a>
 </p>
 
 <a id="about"></a>
-## ![About](./assets/3d-about.svg)
 
-Based in **London, United Kingdom**, with **3+ years of SOC experience** across MSSP and enterprise environments. My work focuses on Microsoft Sentinel, Defender XDR, identity investigations, and security automation.
-
-This portfolio demonstrates how I collect telemetry, validate evidence, build detection logic, and document findings for analyst review.
+<p align="center"><img src="./assets/profile-v2-about.svg" width="100%" alt="About me: 3+ years of SOC experience across MSSP and enterprise environments. Focused on Sentinel, Defender XDR, identity investigations, tested detection logic, and clear reporting." /></p>
 
 <a id="projects"></a>
-## ![Featured projects](./assets/3d-projects.svg)
 
-### ![Windows Authentication Detection](./assets/3d-windows.svg)
+<p align="center"><img src="./assets/profile-v2-windows.svg" width="100%" alt="Windows Authentication Detection: PowerShell Event 4625 collection, correlation, validation, deduplication, and CSV/HTML reports. 31 hosted regression checks passed; local collection recorded 2 unique events and 0 threshold alerts." /></p>
 
-A PowerShell toolkit for collecting **Windows Security Event 4625**, correlating repeated failures, and generating CSV and HTML investigation reports. Includes host/domain/account/IP grouping, event deduplication, and configurable rolling windows.
+[Read case study](https://github.com/Banoth281/soc-login-lab/blob/main/windows-event-investigation/CASE-STUDY.md) · [Source code](https://github.com/Banoth281/soc-login-lab/tree/main/windows-event-investigation/powershell) · [Local evidence](https://github.com/Banoth281/soc-login-lab/blob/main/windows-event-investigation/evidence/LOCAL-V2-VALIDATION.md)
 
-**Validation:** 31 hosted regression checks passed. Local collection recorded 2 unique events and 0 threshold alerts.
+[![Windows test status](https://github.com/Banoth281/soc-login-lab/actions/workflows/powershell-tests.yml/badge.svg)](https://github.com/Banoth281/soc-login-lab/actions/workflows/powershell-tests.yml)
 
-[Case study](https://github.com/Banoth281/soc-login-lab/blob/main/windows-event-investigation/CASE-STUDY.md) · [Source code](https://github.com/Banoth281/soc-login-lab/tree/main/windows-event-investigation/powershell) · [Evidence](https://github.com/Banoth281/soc-login-lab/blob/main/windows-event-investigation/evidence/LOCAL-V2-VALIDATION.md)
+<p align="center"><img src="./assets/profile-v2-phishing.svg" width="100%" alt="Phishing Email Investigation: synthetic sample hashing, header and URL extraction, JSON/HTML reporting, and separate analyst assessment. 10 extraction checks passed; additional reporting and encoding checks are documented in validation." /></p>
 
-[![Windows tests](https://github.com/Banoth281/soc-login-lab/actions/workflows/powershell-tests.yml/badge.svg)](https://github.com/Banoth281/soc-login-lab/actions/workflows/powershell-tests.yml)
+[Read case study](https://github.com/Banoth281/soc-login-lab/blob/main/phishing-email-investigation/CASE-STUDY.md) · [Source code](https://github.com/Banoth281/soc-login-lab/tree/main/phishing-email-investigation) · [Validation](https://github.com/Banoth281/soc-login-lab/blob/main/phishing-email-investigation/VALIDATION.md)
 
-### ![Phishing Email Investigation](./assets/3d-phishing.svg)
+[![Email test status](https://github.com/Banoth281/soc-login-lab/actions/workflows/phishing-tests.yml/badge.svg)](https://github.com/Banoth281/soc-login-lab/actions/workflows/phishing-tests.yml)
 
-An evidence-led workflow for hashing a synthetic email sample, extracting headers and URLs, and generating structured JSON and HTML reports. Extracted facts remain separate from the analyst assessment.
+<p align="center"><img src="./assets/profile-v2-python.svg" width="100%" alt="Multi-Account Failure Detection: Python rolling-window correlation of distinct accounts by source IP, UTC normalisation, duplicate rejection, and structured alerts. 18 tests passed on Windows and Linux; 12 valid synthetic records produce 1 alert." /></p>
 
-**Validation:** 10 extraction checks passed, with additional report-generation and HTML-encoding checks documented.
+[Explore repository](https://github.com/Banoth281/soc-password-spray-lab) · [Investigation](https://github.com/Banoth281/soc-password-spray-lab/blob/main/investigation.md) · [Technical audit](https://github.com/Banoth281/soc-password-spray-lab/blob/main/AUDIT.md)
 
-[Case study](https://github.com/Banoth281/soc-login-lab/blob/main/phishing-email-investigation/CASE-STUDY.md) · [Source code](https://github.com/Banoth281/soc-login-lab/tree/main/phishing-email-investigation) · [Validation](https://github.com/Banoth281/soc-login-lab/blob/main/phishing-email-investigation/VALIDATION.md)
+[![Python test status](https://github.com/Banoth281/soc-password-spray-lab/actions/workflows/python-tests.yml/badge.svg)](https://github.com/Banoth281/soc-password-spray-lab/actions/workflows/python-tests.yml)
 
-[![Phishing tests](https://github.com/Banoth281/soc-login-lab/actions/workflows/phishing-tests.yml/badge.svg)](https://github.com/Banoth281/soc-login-lab/actions/workflows/phishing-tests.yml)
+<sub>Controlled personal labs: Windows includes actual local test events; phishing and multi-account fixtures are synthetic. Counts describe documented validation runs; badges show current workflow status. No production deployment or confirmed intrusion is claimed.</sub>
 
-### ![Multi-Account Failure Detection](./assets/3d-python.svg)
-
-A Python detector that identifies one source IP failing against multiple distinct accounts within an inclusive rolling window. Includes input validation, UTC normalisation, duplicate rejection, and JSON alerts.
-
-**Validation:** 18 tests passed on Windows and Linux. The synthetic fixture produces 1 alert from 12 valid records.
-
-[Repository](https://github.com/Banoth281/soc-password-spray-lab) · [Investigation](https://github.com/Banoth281/soc-password-spray-lab/blob/main/investigation.md) · [Technical audit](https://github.com/Banoth281/soc-password-spray-lab/blob/main/AUDIT.md)
-
-[![Python tests](https://github.com/Banoth281/soc-password-spray-lab/actions/workflows/python-tests.yml/badge.svg)](https://github.com/Banoth281/soc-password-spray-lab/actions/workflows/python-tests.yml)
-
-*These are controlled personal labs. Windows evidence includes actual local test events; email and multi-account fixtures are synthetic. Test counts describe documented runs; badges show current workflow status.*
+<br /><br />
 
 <a id="skills"></a>
-## ![Technical skills](./assets/3d-skills.svg)
 
-| Area | Technologies and practice |
-|---|---|
-| Security platforms | Microsoft Sentinel, Defender XDR, Entra ID, Splunk, Elastic Security |
-| Detection and investigation | KQL, MITRE ATT&CK, threat hunting, log correlation, phishing analysis |
-| Development and automation | PowerShell, Python, Bash, SQL, REST APIs, Azure Logic Apps |
-| Engineering | Git, GitHub Actions, input validation, regression testing, structured reporting |
-| Identity and networking | IAM, MFA, Conditional Access, TCP/IP, DNS, Wireshark |
-| Governance | NIST CSF, ISO 27001, CIS Controls, vulnerability management |
-
-*Skills reflect my CV; repository links demonstrate the specific lab implementations described above.*
+<p align="center"><img src="./assets/profile-v2-stack.svg" width="100%" alt="Technology stack. Platforms: Sentinel, Defender XDR, Entra ID, Splunk, Elastic Security. Detection: KQL, MITRE ATT&CK, threat hunting, phishing analysis. Development: PowerShell, Python, Bash, SQL, REST APIs, Logic Apps. Engineering: Git, GitHub Actions, validation and regression testing. Identity and networking: IAM, MFA, Conditional Access, TCP/IP, DNS, Wireshark. Governance: NIST CSF, ISO 27001, CIS Controls, vulnerability management. Professional skills reflect my CV." /></p>
 
 <a id="experience"></a>
-## ![Professional experience](./assets/3d-experience.svg)
 
-### SOC Analyst · Silverspace
-**September 2025–Present · Remote**
-
-Microsoft Sentinel and Defender XDR investigations, identity security, threat hunting, and response automation.
-
-- Triaged **2,800+ alerts** and escalated **140 confirmed incidents**.
-- Developed **22 KQL analytic rules** and **9 Sentinel playbooks**.
-
-### Junior SOC Analyst · Vizva Consultancy Services
-**September 2021–August 2023 · India**
-
-24/7 security monitoring, phishing investigation, evidence-based escalation, and remediation coordination.
-
-- Analysed **650 phishing emails** and escalated **220 validated incidents**.
-- Coordinated **140 remediation tickets** and documented procedures for analyst handovers.
-
-*Employment details and achievements are drawn from my CV.*
+<p align="center"><img src="./assets/profile-v2-experience.svg" width="100%" alt="CV-listed experience. SOC Analyst, Silverspace, September 2025–Present, remote: 2,800+ alerts, 140 escalated incidents, 22 KQL rules, 9 Sentinel playbooks. Junior SOC Analyst, Vizva Consultancy Services, September 2021–August 2023, India: 650 phishing emails analysed, 220 validated incidents escalated, 140 remediation tickets coordinated." /></p>
 
 <a id="credentials"></a>
-## ![Certifications and education](./assets/3d-credentials.svg)
 
-| Qualification | Issuer or institution |
-|---|---|
-| Security Operations Analyst Associate · SC-200 | Microsoft |
-| Security+ | CompTIA |
-| MSc Advanced Computer Science · 2023–2025 | University of Liverpool, UK |
-| B.Tech Computer Science · 2017–2021 | Guru Nanak Institutions Technical Campus, India |
+<p align="center"><img src="./assets/profile-v2-credentials.svg" width="100%" alt="CV-listed qualifications: Microsoft Security Operations Analyst Associate SC-200; CompTIA Security+; MSc Advanced Computer Science, University of Liverpool, 2023–2025; B.Tech Computer Science, Guru Nanak Institutions Technical Campus, 2017–2021. Public credential verification links are not yet included." /></p>
 
-*CV-listed qualifications; public credential verification links are not yet included.*
-
-## ![Current development](./assets/3d-development.svg)
-
-Expanding detection test fixtures, improving Windows collector integration checks, and exploring robust MIME parsing and evidence provenance.
+<p align="center"><img src="./assets/profile-v2-learning.svg" width="100%" alt="Planned development: broader detection test fixtures; Windows collector integration and evidence traceability; robust MIME parsing and richer email training samples." /></p>
 
 <a id="contact"></a>
-## ![Contact](./assets/3d-contact.svg)
 
-Interested in **SOC Analyst**, **Cybersecurity Analyst**, and **Security Operations** opportunities.
+<p align="center"><img src="./assets/profile-v2-connect.svg" width="100%" alt="Interested in SOC Analyst, Cybersecurity Analyst, and Security Operations roles. Technical feedback and collaboration are welcome." /></p>
 
-[LinkedIn](https://www.linkedin.com/in/banoth281/) · [Email](mailto:Santhoshbanoth971@gmail.com)
-
----
-
-<p align="center"><sub>Investigate with context. Automate with care. Document with evidence.</sub></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/banoth281/"><b>Connect on LinkedIn</b></a> &nbsp; · &nbsp;
+<a href="mailto:Santhoshbanoth971@gmail.com"><b>Email Santhosh</b></a> &nbsp; · &nbsp;
+<a href="https://github.com/Banoth281?tab=repositories"><b>Browse all repositories</b></a>
+</p>
