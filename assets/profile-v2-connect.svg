@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="228" viewBox="0 0 1200 228" role="img" aria-labelledby="title desc"><title id="title">Let’s connect</title><desc id="desc">06 / PROFESSIONAL CONNECTIONS</desc><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#241c38"/><stop offset="1" stop-color="#151121"/></linearGradient><linearGradient id="edge"><stop stop-color="#f6c768"/><stop offset="1" stop-color="#51405f"/></linearGradient></defs><rect x="8" y="12" width="1184" height="214" rx="22" fill="#0e0a16"/><rect x="1" y="1" width="1182" height="211" rx="22" fill="url(#bg)" stroke="#51415f"/><path d="M24 2H1155" stroke="url(#edge)" stroke-width="2"/><g font-family="Trebuchet MS,DejaVu Sans,sans-serif"><text x="40" y="44" fill="#f6c768" font-size="13" font-weight="600">06 / PROFESSIONAL CONNECTIONS</text><text font-family="Georgia,DejaVu Serif,serif" x="40" y="91" fill="#fff8ed" font-size="34" font-weight="700">Let’s connect</text><text x="40" y="143" fill="#dfd5e8" font-size="24" font-weight="400">Interested in SOC Analyst, Cybersecurity Analyst, and Security Operations roles.</text><text x="40" y="186" fill="#dfd5e8" font-size="23" font-weight="400">Connect to discuss opportunities, collaboration, and professional development.</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="228" viewBox="0 0 1200 228" role="img" aria-labelledby="title desc"><style>
+text { fill: #24292f; }
+text[fill="#f6c768"] { fill: #8a5a00; }
+text[fill="#cfb1ff"] { fill: #8250df; }
+text[fill="#b1a0c3"], text[fill="#a395b8"] { fill: #57606a; }
+@media (prefers-color-scheme: dark) {
+ text { fill: #e6edf3; }
+ text[fill="#f6c768"] { fill: #f6c768; }
+ text[fill="#cfb1ff"] { fill: #cfb1ff; }
+ text[fill="#b1a0c3"], text[fill="#a395b8"] { fill: #b6bac4; }
+}
+</style><title id="title">Let’s connect</title><desc id="desc">06 / PROFESSIONAL CONNECTIONS</desc><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#241c38"/><stop offset="1" stop-color="#151121"/></linearGradient><linearGradient id="edge"><stop stop-color="#f6c768"/><stop offset="1" stop-color="#51405f"/></linearGradient></defs><g font-family="Trebuchet MS,DejaVu Sans,sans-serif"><text x="40" y="44" fill="#f6c768" font-size="13" font-weight="600">06 / PROFESSIONAL CONNECTIONS</text><text font-family="Georgia,DejaVu Serif,serif" x="40" y="91" fill="#fff8ed" font-size="34" font-weight="700">Let’s connect</text><text x="40" y="143" fill="#dfd5e8" font-size="24" font-weight="400">Interested in SOC Analyst, Cybersecurity Analyst, and Security Operations roles.</text><text x="40" y="186" fill="#dfd5e8" font-size="23" font-weight="400">Connect to discuss opportunities, collaboration, and professional development.</text></g></svg>
