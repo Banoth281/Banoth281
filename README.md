@@ -24,6 +24,6 @@
 <p align="center"><img src="./assets/profile-v2-connect.svg" width="100%" alt="Interested in SOC Analyst, Cybersecurity Analyst, and Security Operations roles. Professional connections and collaboration are welcome." /></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/banoth281/"><b>Connect on LinkedIn</b></a> &nbsp; · &nbsp;
-<a href="mailto:Santhoshbanoth971@gmail.com"><b>Email Santhosh</b></a>
+  <a href="https://www.linkedin.com/in/banoth281/"><img src="./assets/contact-linkedin.svg" width="200" alt="Connect with Santhosh on LinkedIn" /></a>
+  <a href="mailto:Santhoshbanoth971@gmail.com"><img src="./assets/contact-email.svg" width="200" alt="Email Santhosh" /></a>
 </p>
