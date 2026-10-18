@@ -5,7 +5,7 @@
 
 <a id="about"></a>
 
-<p align="center"><img src="./assets/profile-v2-about.svg" width="100%" alt="About me: 3+ years of SOC experience across MSSP and enterprise environments. Focused on Sentinel, Defender XDR, identity investigations, tested detection logic, and clear reporting." /></p>
+<p align="center"><img src="./assets/profile-v2-about.svg" width="100%" alt="SOC Analyst with 3+ years of MSSP and enterprise experience. Skilled in Sentinel, Defender XDR, Splunk, Entra ID, KQL, alert triage, threat hunting, incident response, PowerShell, Python, evidence handling, and reporting." /></p>
 
 <a id="experience"></a>
 
