@@ -3,16 +3,6 @@
   <img src="./assets/security-operations-3d.svg" width="100%" alt="Santhosh Banoth — SOC Analyst, Threat Detection and Incident Response" />
 </p>
 
-<p align="center">
-  <a href="#about">About</a> ·
-  <a href="#projects">Projects</a> ·
-  <a href="#data-engineering">Data Engineering</a> ·
-  <a href="#skills">Skills</a> ·
-  <a href="#experience">Experience</a> ·
-  <a href="#credentials">Credentials</a> ·
-  <a href="#contact">Contact</a>
-</p>
-
 <a id="about"></a>
 
 <p align="center"><img src="./assets/profile-v2-about.svg" width="100%" alt="About me: 3+ years of SOC experience across MSSP and enterprise environments. Focused on Sentinel, Defender XDR, identity investigations, tested detection logic, and clear reporting." /></p>
