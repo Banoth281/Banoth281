@@ -10,6 +10,8 @@
 <a href="#contact"><img src="./assets/nav-contact.svg" width="143" alt="Contact" /></a>
 </p>
 
+<p align="center"><a href="#data-engineering"><img src="./assets/nav-data-engineering.svg" width="233" alt="Data Engineering projects" /></a></p>
+
 <a id="about"></a>
 
 <p align="center"><img src="./assets/profile-v2-about.svg" width="100%" alt="About me: 3+ years of SOC experience across MSSP and enterprise environments. Focused on Sentinel, Defender XDR, identity investigations, tested detection logic, and clear reporting." /></p>
@@ -35,6 +37,30 @@
 [![Python test status](https://github.com/Banoth281/soc-password-spray-lab/actions/workflows/python-tests.yml/badge.svg)](https://github.com/Banoth281/soc-password-spray-lab/actions/workflows/python-tests.yml)
 
 <sub>Controlled personal labs: Windows includes actual local test events; phishing and multi-account fixtures are synthetic. Counts describe documented validation runs; badges show current workflow status. No production deployment or confirmed intrusion is claimed.</sub>
+
+<br /><br />
+
+<a id="data-engineering"></a>
+
+<p align="center"><img src="./assets/data-engineering-overview.svg" width="100%" alt="Data engineering and analytics: hands-on projects in streaming, storage, validation, data modelling, and reporting." /></p>
+
+<p align="center"><img src="./assets/data-projects-1.svg" width="100%" alt="UK Transport Intelligence: TfL arrivals → Kafka / Redpanda; PostgreSQL → dbt → FastAPI; Streamlit transport analytics. Learning focus: Event streaming and tested data marts. Stack: Python · Kafka · PostgreSQL · dbt. Fraud Detection Lakehouse: Synthetic banking event ingestion; MinIO Bronze and PostgreSQL Silver; dbt Gold models and fraud rules. Learning focus: Replay safety and data quality contracts. Stack: Python · Kafka · MinIO · dbt." /></p>
+
+[Explore UK Transport Intelligence](https://github.com/Banoth281/uk-live-transport-intelligence) · [Explore Fraud Detection Lakehouse](https://github.com/Banoth281/real-time-fraud-detection-lakehouse)
+
+<p align="center"><img src="./assets/data-projects-2.svg" width="100%" alt="Commerce Data Pipeline: Synthetic orders and schema validation; Dead-letter handling and safe replays; Revenue and latency metrics via API. Learning focus: Idempotent writes and offset management. Stack: Python · Redpanda · PostgreSQL. UK Energy Intelligence: UK carbon-intensity API collection; Regional storage and validation; FastAPI and Streamlit energy insights. Learning focus: API ingestion and relational modelling. Stack: Python · PostgreSQL · FastAPI." /></p>
+
+[Explore Commerce Data Pipeline](https://github.com/Banoth281/real-time-commerce-data-pipeline) · [Explore UK Energy Intelligence](https://github.com/Banoth281/live-uk-energy-intelligence)
+
+<p align="center"><img src="./assets/data-projects-3.svg" width="100%" alt="Crypto Streaming Pipeline: Bitcoin market data ingested via REST; Kafka event transport and processing; PySpark Streaming and Streamlit. Learning focus: Streaming ingestion and transformation. Stack: Python · Kafka · PySpark · Docker. Personal Finance Tracker: Bank CSV cleaning and categorisation; Duplicate and unusual-payment checks; PostgreSQL-backed spending analytics. Learning focus: Schema validation and transaction IDs. Stack: Python · PostgreSQL · Streamlit." /></p>
+
+[Explore Crypto Streaming Pipeline](https://github.com/Banoth281/realtime-crypto-pipeline) · [Explore Personal Finance Tracker](https://github.com/Banoth281/smart-personal-finance-tracker)
+
+<p align="center"><img src="./assets/data-projects-4.svg" width="100%" alt="UK Retail Sales Analytics: Synthetic retail transaction analysis; Revenue, profit, returns and segments; Excel dashboards, SQL and Python. Learning focus: Data quality and analytical SQL. Stack: Excel · SQL / SQLite · pandas. Retail Decision Studio: Browser-based CSV validation; Sales and repeat-customer analysis; Separate ONS context and scenarios. Learning focus: Validation and transparent data context. Stack: JavaScript · Python · CSV." /></p>
+
+[Explore UK Retail Sales Analytics](https://github.com/Banoth281/uk-retail-sales-analytics) · [Explore Retail Decision Studio](https://github.com/Banoth281/retail-growth-retention-decision-studio)
+
+<sub>Personal engineering and learning projects. Summaries follow the linked repository documentation; this profile update does not independently verify runtime or deployment status. Commerce, banking, and retail examples use synthetic data. Some hosted dashboards use saved demo snapshots when their backend is unavailable.</sub>
 
 <br /><br />
 
