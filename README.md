@@ -12,16 +12,16 @@
 </p>
 
 <a id="about"></a>
-## About
+## ![About](./assets/3d-about.svg)
 
 Based in **London, United Kingdom**, with **3+ years of SOC experience** across MSSP and enterprise environments. My work focuses on Microsoft Sentinel, Defender XDR, identity investigations, and security automation.
 
 This portfolio demonstrates how I collect telemetry, validate evidence, build detection logic, and document findings for analyst review.
 
 <a id="projects"></a>
-## Featured projects
+## ![Featured projects](./assets/3d-projects.svg)
 
-### 01 · Windows Authentication Detection
+### ![Windows Authentication Detection](./assets/3d-windows.svg)
 
 A PowerShell toolkit for collecting **Windows Security Event 4625**, correlating repeated failures, and generating CSV and HTML investigation reports. Includes host/domain/account/IP grouping, event deduplication, and configurable rolling windows.
 
@@ -31,7 +31,7 @@ A PowerShell toolkit for collecting **Windows Security Event 4625**, correlating
 
 [![Windows tests](https://github.com/Banoth281/soc-login-lab/actions/workflows/powershell-tests.yml/badge.svg)](https://github.com/Banoth281/soc-login-lab/actions/workflows/powershell-tests.yml)
 
-### 02 · Phishing Email Investigation
+### ![Phishing Email Investigation](./assets/3d-phishing.svg)
 
 An evidence-led workflow for hashing a synthetic email sample, extracting headers and URLs, and generating structured JSON and HTML reports. Extracted facts remain separate from the analyst assessment.
 
@@ -41,7 +41,7 @@ An evidence-led workflow for hashing a synthetic email sample, extracting header
 
 [![Phishing tests](https://github.com/Banoth281/soc-login-lab/actions/workflows/phishing-tests.yml/badge.svg)](https://github.com/Banoth281/soc-login-lab/actions/workflows/phishing-tests.yml)
 
-### 03 · Multi-Account Failure Detection
+### ![Multi-Account Failure Detection](./assets/3d-python.svg)
 
 A Python detector that identifies one source IP failing against multiple distinct accounts within an inclusive rolling window. Includes input validation, UTC normalisation, duplicate rejection, and JSON alerts.
 
@@ -54,7 +54,7 @@ A Python detector that identifies one source IP failing against multiple distinc
 *These are controlled personal labs. Windows evidence includes actual local test events; email and multi-account fixtures are synthetic. Test counts describe documented runs; badges show current workflow status.*
 
 <a id="skills"></a>
-## Technical skills
+## ![Technical skills](./assets/3d-skills.svg)
 
 | Area | Technologies and practice |
 |---|---|
@@ -68,7 +68,7 @@ A Python detector that identifies one source IP failing against multiple distinc
 *Skills reflect my CV; repository links demonstrate the specific lab implementations described above.*
 
 <a id="experience"></a>
-## Professional experience
+## ![Professional experience](./assets/3d-experience.svg)
 
 ### SOC Analyst · Silverspace
 **September 2025–Present · Remote**
@@ -89,7 +89,7 @@ Microsoft Sentinel and Defender XDR investigations, identity security, threat hu
 *Employment details and achievements are drawn from my CV.*
 
 <a id="credentials"></a>
-## Certifications and education
+## ![Certifications and education](./assets/3d-credentials.svg)
 
 | Qualification | Issuer or institution |
 |---|---|
@@ -100,12 +100,12 @@ Microsoft Sentinel and Defender XDR investigations, identity security, threat hu
 
 *CV-listed qualifications; public credential verification links are not yet included.*
 
-## Current development
+## ![Current development](./assets/3d-development.svg)
 
 Expanding detection test fixtures, improving Windows collector integration checks, and exploring robust MIME parsing and evidence provenance.
 
 <a id="contact"></a>
-## Contact
+## ![Contact](./assets/3d-contact.svg)
 
 Interested in **SOC Analyst**, **Cybersecurity Analyst**, and **Security Operations** opportunities.
 
