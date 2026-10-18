@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+<title id="title">Santhosh Banoth — Security Operations</title><desc id="desc">Navy and cyan security operations banner with a dimensional shield and layered investigation panels.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071222"/><stop offset="1" stop-color="#12243c"/></linearGradient>
+<linearGradient id="face" x2="1" y2="1"><stop stop-color="#50e3e9"/><stop offset=".48" stop-color="#167caa"/><stop offset="1" stop-color="#15395f"/></linearGradient>
+<linearGradient id="edge" x2="1" y2="1"><stop stop-color="#0d5575"/><stop offset="1" stop-color="#061a30"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7db8d4" stroke-opacity=".065"/></pattern>
+</defs>
+<rect width="1280" height="440" rx="24" fill="url(#bg)"/><rect width="1280" height="440" rx="24" fill="url(#grid)"/>
+<path d="M0 1H1280" stroke="#42d8e4" stroke-opacity=".6"/>
+<circle cx="1050" cy="210" r="177" fill="#29c9d7" opacity=".035"/><circle cx="1050" cy="210" r="143" fill="none" stroke="#41d5df" stroke-opacity=".13"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="64" y="73" fill="#54dce3" font-size="14" letter-spacing="4">SECURITY OPERATIONS / DETECTION ENGINEERING</text>
+<text x="60" y="149" fill="#f0f6fc" font-size="56" font-weight="700">Santhosh Banoth</text>
+<text x="64" y="194" fill="#b8cadc" font-size="23">SOC Analyst · Threat Detection · Incident Response</text>
+<rect x="64" y="225" width="580" height="1" fill="#30465f"/>
+<text x="64" y="262" fill="#d4e3ef" font-size="18">From security telemetry to evidence-led decisions.</text>
+<g font-size="13" fill="#9cb8ce" letter-spacing="1.4"><text x="64" y="311">MICROSOFT SENTINEL</text><text x="291" y="311">DEFENDER XDR</text><text x="473" y="311">KQL / AUTOMATION</text></g>
+<rect x="64" y="350" width="299" height="37" rx="18" fill="#153a47" stroke="#28636b"/><circle cx="85" cy="369" r="4" fill="#65e3c1"/><text x="100" y="374" fill="#a9eee0" font-size="13">INVESTIGATE. VALIDATE. DOCUMENT.</text>
+<text x="1220" y="406" text-anchor="end" fill="#7093af" font-size="12" letter-spacing="2">BANOTH281 / CYBERSECURITY</text>
+</g>
+<g stroke-linejoin="round">
+<path d="M826 290L1042 352L1207 262L991 205Z" fill="#06101f" stroke="#274660"/>
+<path d="M826 290V307L1042 370V352Z" fill="#0d2339"/><path d="M1042 352V370L1207 279V262Z" fill="#15374b"/>
+<path d="M856 267L1042 321L1177 247" fill="none" stroke="#32cbd8" stroke-opacity=".4"/>
+<path d="M969 110L1046 78L1139 117L1137 205Q1134 267 1054 305Q978 264 971 206Z" fill="#081d35" stroke="#33617d" stroke-width="2"/>
+<path d="M954 100L1031 68L1124 107L1122 195Q1119 257 1039 295Q963 254 956 196Z" fill="url(#face)" stroke="#78e9ef" stroke-width="2"/>
+<path d="M1031 68L1039 295Q1119 257 1122 195L1124 107Z" fill="#092f51" opacity=".45"/>
+<path d="M984 118L1032 97L1093 122L1092 190Q1090 231 1039 261Q989 228 986 190Z" fill="#09243e" stroke="#67dbe7" stroke-opacity=".7"/>
+<path d="M1010 174L1034 198L1074 150" fill="none" stroke="#b1fff0" stroke-width="9" stroke-linecap="round"/>
+<g transform="translate(837 154)"><path d="M0 0L82 23V94L0 71Z" fill="#112b43" stroke="#3a7d96"/><path d="M13 24L65 39M13 38L50 49M13 52L60 65" stroke="#69d4df" stroke-width="3"/><circle cx="65" cy="79" r="3" fill="#75ead1"/></g>
+<g transform="translate(1137 190)"><path d="M0 0L76 -34V37L0 71Z" fill="#112b43" stroke="#3a7d96"/><path d="M14 44V33M28 38V17M42 31V8M56 24V-4" stroke="#56d6df" stroke-width="5"/></g>
+</g></svg>
