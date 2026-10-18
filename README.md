@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="#about">About</a> ·
-  <a href="#projects">Projects</a> ·
-  <a href="#skills">Skills</a> ·
-  <a href="#experience">Experience</a> ·
-  <a href="#credentials">Credentials</a> ·
-  <a href="#contact">Contact</a>
+  <a href="#about"><img src="./assets/nav-about.svg" width="143" alt="About" /></a>
+  <a href="#projects"><img src="./assets/nav-projects.svg" width="143" alt="Projects" /></a>
+  <a href="#skills"><img src="./assets/nav-skills.svg" width="143" alt="Skills" /></a>
+  <a href="#experience"><img src="./assets/nav-experience.svg" width="143" alt="Experience" /></a>
+  <a href="#credentials"><img src="./assets/nav-credentials.svg" width="143" alt="Credentials" /></a>
+  <a href="#contact"><img src="./assets/nav-contact.svg" width="143" alt="Contact" /></a>
 </p>
 
 <a id="about"></a>
