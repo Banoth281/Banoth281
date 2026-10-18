@@ -60,7 +60,7 @@ These MSc projects are described in my CV. The linked personal repositories belo
 | Project | Scope |
 |---|---|
 | [SOC Login Investigation Lab](https://github.com/Banoth281/soc-login-lab) | Authentication analysis using simulated records and investigation documentation |
-| [Windows Event Investigation](https://github.com/Banoth281/soc-login-lab/tree/main/windows-event-investigation) | Personal Windows lab: audit policy verified; controlled Event 4625 capture and investigation remain pending |
+| [Windows Event Investigation](https://github.com/Banoth281/soc-login-lab/tree/main/windows-event-investigation) | Personal Windows lab: audit policy verified; controlled failed-logon text analysed; original event export and timestamp/record-ID validation pending |
 | [SOC Password Spray Lab](https://github.com/Banoth281/soc-password-spray-lab) | Separate Python-based password spray detection exercise using synthetic authentication records |
 
 Professional experience and academic project figures above come from my CV; they are not validation results for these GitHub repositories. Personal labs distinguish observed evidence, simulations, and proposed response actions.
