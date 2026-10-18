@@ -1,5 +1,16 @@
-# Santhosh Banoth
-### SOC Analyst · Threat Detection · Incident Response · Security Automation
+<p align="center">
+  <img src="./assets/security-operations-3d.svg" width="100%" alt="Santhosh Banoth — SOC Analyst, threat detection and incident response; custom 3D-style security operations banner" />
+</p>
+
+<p align="center">
+  <a href="#featured-engineering-work">PROJECTS</a> &nbsp; / &nbsp;
+  <a href="#technical-capabilities">TECHNICAL SKILLS</a> &nbsp; / &nbsp;
+  <a href="#professional-experience">EXPERIENCE</a> &nbsp; / &nbsp;
+  <a href="#certifications-and-education">CREDENTIALS</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/banoth281/">LINKEDIN</a>
+</p>
+
+## About me
 
 London, United Kingdom  
 [LinkedIn](https://www.linkedin.com/in/banoth281/) · [Email](mailto:Santhoshbanoth971@gmail.com) · [SOC portfolio](https://github.com/Banoth281/soc-login-lab) · [Password spray detector](https://github.com/Banoth281/soc-password-spray-lab)
@@ -9,6 +20,10 @@ SOC Analyst with **3+ years of experience** across MSSP and enterprise environme
 My GitHub portfolio demonstrates the implementation behind an investigation: event collection, evidence validation, detection logic, analyst reasoning, automated tests, and clear reports.
 
 ## Featured engineering work
+
+<p align="center">
+  <img src="./assets/portfolio-tracks.svg" width="100%" alt="Three portfolio tracks: Windows authentication, phishing investigation, and multi-account detection" />
+</p>
 
 | Project | Technical implementation | Verified result | Review |
 |---|---|---|---|
@@ -166,3 +181,7 @@ Broader benign and malformed-input fixtures, collector integration tests, robust
 Interested in SOC analysis, security operations, detection engineering, threat hunting, and security automation.
 
 [LinkedIn](https://www.linkedin.com/in/banoth281/) · [Email](mailto:Santhoshbanoth971@gmail.com)
+
+---
+
+<p align="center"><b>Investigate with context. Automate with care. Document with evidence.</b><br /><sub>Santhosh Banoth · Security Operations &amp; Detection Engineering</sub></p>
