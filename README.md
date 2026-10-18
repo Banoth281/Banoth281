@@ -1,16 +1,17 @@
 <!-- Custom SVG portfolio for Santhosh Banoth. All artwork is stored in this repository. -->
-<p align="center"><img src="./assets/profile-v2-header.svg" width="100%" alt="Santhosh Banoth — SOC Analyst based in London, United Kingdom. Threat detection and incident response." /></p>
-
 <p align="center">
-<a href="#about"><img src="./assets/nav-about.svg" width="143" alt="About" /></a>
-<a href="#projects"><img src="./assets/nav-projects.svg" width="143" alt="Projects" /></a>
-<a href="#skills"><img src="./assets/nav-skills.svg" width="143" alt="Skills" /></a>
-<a href="#experience"><img src="./assets/nav-experience.svg" width="143" alt="Experience" /></a>
-<a href="#credentials"><img src="./assets/nav-credentials.svg" width="143" alt="Credentials" /></a>
-<a href="#contact"><img src="./assets/nav-contact.svg" width="143" alt="Contact" /></a>
+  <img src="./assets/security-operations-3d.svg" width="100%" alt="Santhosh Banoth — SOC Analyst, Threat Detection and Incident Response" />
 </p>
 
-<p align="center"><a href="#data-engineering"><img src="./assets/nav-data-engineering.svg" width="233" alt="Data Engineering projects" /></a></p>
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#data-engineering">Data Engineering</a> ·
+  <a href="#skills">Skills</a> ·
+  <a href="#experience">Experience</a> ·
+  <a href="#credentials">Credentials</a> ·
+  <a href="#contact">Contact</a>
+</p>
 
 <a id="about"></a>
 
