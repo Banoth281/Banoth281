@@ -1,27 +1,87 @@
-<!-- Professional SVG profile for Santhosh Banoth. All artwork is stored in this repository. -->
-<p align="center">
-  <img src="./assets/security-operations-3d.svg" width="100%" alt="Santhosh Banoth — SOC Analyst, Threat Detection and Incident Response" />
-</p>
+# Santhosh Banoth
 
-<a id="about"></a>
+**SOC Analyst · Threat Detection · Incident Response**  
+London, United Kingdom
 
-<p align="center"><img src="./assets/profile-v2-about.svg" width="100%" alt="SOC Analyst with 3+ years of MSSP and enterprise experience. Skilled in Sentinel, Defender XDR, Splunk, Entra ID, KQL, alert triage, threat hunting, incident response, PowerShell, Python, evidence handling, and reporting." /></p>
+## About
 
-<a id="experience"></a>
+SOC Analyst with **3+ years of experience** across MSSP and enterprise environments, skilled in Microsoft Sentinel, Defender XDR, Splunk, and Entra ID investigations.
 
-<p align="center"><img src="./assets/profile-v2-experience.svg" width="100%" alt="CV-listed experience. SOC Analyst, Silverspace, September 2025–Present, remote: 2,800+ alerts, 140 escalated incidents, 22 KQL rules, 9 Sentinel playbooks. Junior SOC Analyst, Vizva Consultancy Services, September 2021–August 2023, India: 650 phishing emails analysed, 220 validated incidents escalated, 140 remediation tickets coordinated." /></p>
+My work spans alert triage, threat hunting, incident response, and KQL detection rules. I use PowerShell and Python to automate analysis and strengthen evidence handling, turning security telemetry into clear findings, practical actions, and concise reports.
 
-<a id="skills"></a>
+## Experience
 
-<p align="center"><img src="./assets/consistent-skills.svg" width="100%" alt="Technical skills: security operations, security platforms, KQL detection engineering, PowerShell and Python automation, testing, identity and networking, governance. Skills reflect my CV." /></p>
+### SOC Analyst — Silverspace
 
-<a id="credentials"></a>
+**September 2025–Present · Remote**
 
-<p align="center"><img src="./assets/consistent-credentials.svg" width="100%" alt="CV-listed qualifications: Microsoft SC-200; CompTIA Security+; MSc Advanced Computer Science, University of Liverpool, 2023–2025; B.Tech Computer Science, Guru Nanak Institutions Technical Campus, 2017–2021. Public verification links are not yet included." /></p>
+**Core responsibilities**
 
-<a id="projects"></a>
+- Microsoft Sentinel and Defender XDR investigations, Entra ID identity security, and KQL detection engineering.
+- Threat hunting, response automation, rule tuning, incident reporting, and operational runbooks.
 
-<p align="center"><img src="./assets/recruiter-projects.svg" width="100%" alt="Projects — role-ordered directory with demo and source links." /></p>
+**Selected achievements**
+
+- Triaged **2,800+ alerts** and escalated **140 confirmed incidents** across **3,500 identities and endpoints**.
+- Developed **22 KQL analytic rules** mapped to **15 MITRE ATT&CK techniques**.
+- Investigated **180 password-spray, impossible-travel, and suspicious sign-in events**, supporting containment, MFA enforcement, and **90 malicious IP blocks**.
+- Built **9 Sentinel playbooks** using Azure Logic Apps and PowerShell, saving **350 analyst hours**.
+- Conducted **30 threat hunts**, contributing to **8 new detection rules**.
+- Tuned rules, watchlists, and allow-lists to remove **1,200 false positives** and recover **120 analysis hours**.
+- Authored **45 incident reports** and **12 runbooks** aligned with NIST and ISO 27001.
+
+### Junior SOC Analyst — Vizva Consultancy Services
+
+**September 2021–August 2023 · India**
+
+**Core responsibilities**
+
+- 24/7 security monitoring using Splunk and EDR, phishing investigation, and evidence-based incident escalation.
+- Vulnerability remediation coordination, analyst procedures, and structured operational handovers.
+
+**Selected achievements**
+
+- Monitored **9,000+ security events** across **2,000 endpoints**.
+- Analysed **650 phishing emails**, attachments, and URLs; recommended **400 domain, hash, and sender blocks**.
+- Escalated **220 validated incidents** with timelines, IOCs, and asset context, reducing hand-off time by **3 hours per case**.
+- Created procedures adopted by **8 analysts**, helping shorten onboarding to **2 weeks**.
+- Coordinated closure of **140 remediation tickets** and verification of critical fixes within **7 days**.
+
+*Employment details and achievements are drawn from my CV.*
+
+## Skills
+
+| Specialism | Technologies and practice |
+|---|---|
+| **Security operations** | Alert triage, incident response, threat hunting, phishing investigation, evidence handling |
+| **Security platforms** | Microsoft Sentinel, Defender XDR, Entra ID, Splunk, Elastic Security |
+| **Detection engineering** | KQL, MITRE ATT&CK, event correlation, analytic rules, rule tuning |
+| **Automation and development** | PowerShell, Python, Bash, SQL, REST APIs, Azure Logic Apps |
+| **Engineering practice** | Git, GitHub Actions, input validation, regression testing, reporting |
+| **Identity and networking** | IAM, MFA, Conditional Access, TCP/IP, DNS, Wireshark |
+| **Governance** | NIST CSF, ISO 27001, CIS Controls, vulnerability management |
+
+*Professional skills reflect my CV; project links show the available implementations and evidence.*
+
+## Credentials
+
+### Professional certifications
+
+| Certification | Issuer |
+|---|---|
+| Security Operations Analyst Associate — **SC-200** | Microsoft |
+| **Security+** | CompTIA |
+
+### Education
+
+| Qualification | Institution | Period |
+|---|---|---|
+| **MSc Advanced Computer Science** | University of Liverpool, UK | 2023–2025 |
+| **B.Tech Computer Science** | Guru Nanak Institutions Technical Campus, India | 2017–2021 |
+
+*CV-listed qualifications; public credential verification links are not yet included.*
+
+## Projects
 
 Projects are ordered by relevance to **SOC and cybersecurity**, followed by **data engineering**, **analytics**, and **software development**.
 
@@ -42,20 +102,14 @@ Projects are ordered by relevance to **SOC and cybersecurity**, followed by **da
 | **Game / Software Developer** | **3D Rock-Paper-Scissors Combat Arena** | Unity / C# dissertation work and adaptive finite-state-machine agents. | [Presentation](https://liverpool.instructuremedia.com/embed/ecdc0b68-ef36-4850-a924-5a1b80e6143a) | [Code](https://github.com/Banoth281/RPS) · [Unity implementation](https://github.com/Banoth281/unity-3d-rock-paper-scissors-arena-main) |
 | **Technical Learning** | **Software & Data Engineering Roadmaps** | Architecture notes, learning paths, and engineering workflows. | Local project | [GitHub](https://github.com/Banoth281/SE-vs-DE-Technical-Roadmaps) |
 
-<details>
-<summary>About the demo links and project data</summary>
+**Demo links and project data**
 
 **Open demo** links point to published web apps. **Local project** means a public hosted demo is not documented; use the repository for code, evidence, screenshots, and setup instructions. The Unity link opens a presentation rather than a playable web build.
 
 Some dashboards use saved or synthetic data when their backend is unavailable. TfL direct requests are separate from saved pipeline analytics; the SAP browser demo simulates application workflows. Availability has not been confirmed for every demo service.
 
-</details>
+## Contact
 
-<a id="contact"></a>
+Interested in **SOC Analyst**, **Cybersecurity Analyst**, and **Security Operations** opportunities. Open to professional connections, collaboration, and continued development.
 
-<p align="center"><img src="./assets/profile-v2-connect.svg" width="100%" alt="Interested in SOC Analyst, Cybersecurity Analyst, and Security Operations roles. Professional connections and collaboration are welcome." /></p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/banoth281/"><img src="./assets/contact-linkedin.svg" width="200" alt="Connect with Santhosh on LinkedIn" /></a>
-  <a href="mailto:Santhoshbanoth971@gmail.com"><img src="./assets/contact-email.svg" width="200" alt="Email Santhosh" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/banoth281/) · [Email](mailto:Santhoshbanoth971@gmail.com)
