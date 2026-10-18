@@ -1,14 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
-<title id="title">Santhosh Banoth — Security Operations</title><desc id="desc">Navy and cyan security operations banner with a dimensional shield and layered investigation panels.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc"><style>
+text { fill: #24292f; }
+text[fill="#f6c768"] { fill: #8a5a00; }
+text[fill="#cfb1ff"] { fill: #8250df; }
+text[fill="#b1a0c3"], text[fill="#a395b8"] { fill: #57606a; }
+@media (prefers-color-scheme: dark) {
+ text { fill: #e6edf3; }
+ text[fill="#f6c768"] { fill: #f6c768; }
+ text[fill="#cfb1ff"] { fill: #cfb1ff; }
+ text[fill="#b1a0c3"], text[fill="#a395b8"] { fill: #b6bac4; }
+}
+</style>
+<title id="title">Santhosh Banoth — Security Operations</title><desc id="desc">Transparent security operations banner with a dimensional shield and layered investigation artwork.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#141126"/><stop offset="1" stop-color="#292144"/></linearGradient>
 <linearGradient id="face" x2="1" y2="1"><stop stop-color="#f6c768"/><stop offset=".48" stop-color="#a67c45"/><stop offset="1" stop-color="#59416f"/></linearGradient>
 <linearGradient id="edge" x2="1" y2="1"><stop stop-color="#6d4773"/><stop offset="1" stop-color="#211831"/></linearGradient>
 <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b8a0cf" stroke-opacity=".065"/></pattern>
 </defs>
-<rect width="1280" height="440" rx="24" fill="url(#bg)"/><rect width="1280" height="440" rx="24" fill="url(#grid)"/>
-<path d="M0 1H1280" stroke="#d5b4ff" stroke-opacity=".6"/>
-<circle cx="1050" cy="210" r="177" fill="#b598f0" opacity=".035"/><circle cx="1050" cy="210" r="143" fill="none" stroke="#c5a4ff" stroke-opacity=".13"/>
+
+
+
 <g font-family="Trebuchet MS,DejaVu Sans,sans-serif">
 <text x="64" y="73" fill="#f6c768" font-size="14" letter-spacing="4">SECURITY OPERATIONS / DETECTION ENGINEERING</text>
 <text font-family="Georgia,DejaVu Serif,serif" x="60" y="149" fill="#fff8ec" font-size="56" font-weight="700">Santhosh Banoth</text>
@@ -16,7 +27,7 @@
 <rect x="64" y="225" width="580" height="1" fill="#514360"/>
 <text x="64" y="262" fill="#e2d9eb" font-size="18">From security telemetry to evidence-led decisions.</text>
 <g font-size="13" fill="#bcaed0" letter-spacing="1.4"><text x="64" y="311">MICROSOFT SENTINEL</text><text x="291" y="311">DEFENDER XDR</text><text x="473" y="311">KQL / AUTOMATION</text></g>
-<rect x="64" y="350" width="299" height="37" rx="18" fill="#352542" stroke="#72527f"/><circle cx="85" cy="369" r="4" fill="#d0b3ff"/><text x="100" y="374" fill="#e2ceff" font-size="13">INVESTIGATE. VALIDATE. DOCUMENT.</text>
+<circle cx="85" cy="369" r="4" fill="#d0b3ff"/><text x="100" y="374" fill="#e2ceff" font-size="13">INVESTIGATE. VALIDATE. DOCUMENT.</text>
 <text x="1220" y="406" text-anchor="end" fill="#a395b8" font-size="12" letter-spacing="2">BANOTH281 / CYBERSECURITY</text>
 </g>
 <g stroke-linejoin="round">
