@@ -23,12 +23,17 @@
 
 <p align="center"><img src="./assets/recruiter-projects.svg" width="100%" alt="Projects — role-ordered directory with demo and source links." /></p>
 
-Projects are ordered by relevance to **SOC and cybersecurity**, followed by **data engineering**, **analytics**, and **software development**.
+### SOC and Cybersecurity Projects
 
 | Relevant role | Project | Technical focus | Live demo / preview | Source |
 |---|---|---|---|---|
 | **SOC / Cybersecurity Analyst** | **SOC Investigation & Detection Portfolio** | Event 4625, phishing analysis, PowerShell reporting, and evidence. | Local project | [GitHub](https://github.com/Banoth281/soc-login-lab) |
 | **SOC / Cybersecurity Analyst** | **Multi-Account Failure Detection** | Python authentication correlation, rolling windows, and synthetic tests. | Local project | [GitHub](https://github.com/Banoth281/soc-password-spray-lab) |
+
+### Engineering and Technical Projects
+
+| Relevant role | Project | Technical focus | Live demo / preview | Source |
+|---|---|---|---|---|
 | **Data Engineer / Security Data** | **Banking Fraud Detection Lakehouse** | Kafka-compatible ingestion, MinIO, PostgreSQL, dbt, and synthetic fraud rules. | [Open demo ↗](https://real-time-fraud-detection-lakehouse-jfsazacdwjdgkz6gplthwv.streamlit.app/) | [GitHub](https://github.com/Banoth281/real-time-fraud-detection-lakehouse) |
 | **Data Engineer** | **UK Live Transport Intelligence** | TfL API ingestion, Kafka / Redpanda, PostgreSQL, dbt, and FastAPI. | [Open demo ↗](https://uk-live-transport-intelligence.streamlit.app) | [GitHub](https://github.com/Banoth281/uk-live-transport-intelligence) |
 | **Data Engineer** | **Commerce Data Pipeline** | Schema validation, replay-safe writes, and operational metrics. | [Open demo ↗](https://real-time-commerce-data-pipeline-db39b7gmu7trypz8vlj6sg.streamlit.app/) | [GitHub](https://github.com/Banoth281/real-time-commerce-data-pipeline) |
