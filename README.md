@@ -60,7 +60,8 @@ These MSc projects are described in my CV. The linked personal repositories belo
 | Project | Scope |
 |---|---|
 | [SOC Login Investigation Lab](https://github.com/Banoth281/soc-login-lab) | Authentication analysis using simulated records and investigation documentation |
-| [Windows Event Investigation](https://github.com/Banoth281/soc-login-lab/tree/main/windows-event-investigation) | Completed single-event Windows investigation using supplied Event 4625 text and XML; documented status codes, UTC timestamp, record ID, and evidence limitations |
+| [Windows Event Investigation](https://github.com/Banoth281/soc-login-lab/tree/main/windows-event-investigation) | Windows Event 4625 investigation, repeated-failure detection, CSV/HTML reporting, and eight synthetic checks passed locally and in Windows CI |
+| [Phishing Email Investigation](https://github.com/Banoth281/soc-login-lab/tree/main/phishing-email-investigation) | Offline synthetic email analysis, SHA-256 evidence, PowerShell extraction, separate analyst assessment, HTML reporting, and Windows CI; [case study](https://github.com/Banoth281/soc-login-lab/blob/main/phishing-email-investigation/CASE-STUDY.md) |
 | [SOC Password Spray Lab](https://github.com/Banoth281/soc-password-spray-lab) | Separate Python-based password spray detection exercise using synthetic authentication records |
 
 Professional experience and academic project figures above come from my CV; they are not validation results for these GitHub repositories. Personal labs distinguish observed evidence, simulations, and proposed response actions.
